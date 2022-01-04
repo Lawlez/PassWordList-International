@@ -7,21 +7,21 @@ The Passwords directory will hold a number of password lists that can be used by
 --
 
 
-Currently Password lists are available for following countries:
+### Currently Password lists are available for following countries:
 
-[x] Germany
-[x] Switzerland
-[x] United Kingdom (WIP)
-[x] Italy
-[x] France (WIP)
-[x] Austria
-[x] Netherlands
+- [x] Germany
+- [x] Switzerland
+- [x] United Kingdom (WIP)
+- [x] Italy
+- [x] France (WIP)
+- [x] Austria
+- [x] Netherlands
 
-Feel free to contribute, why not one of those:
+#### Feel free to contribute, why not one of those:
 
-[ ] Japan
-[ ] Greece
-[ ] Ukraine
-[ ] Turkey
-[ ] China
-[ ] Russia
+- [ ] Japan
+- [ ] Greece
+- [ ] Ukraine
+- [ ] Turkey
+- [ ] China
+- [ ] Russia
