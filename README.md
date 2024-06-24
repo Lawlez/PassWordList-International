@@ -17,6 +17,8 @@ The Passwords directory will hold a number of password lists that can be used by
 - [x] Austria 🇦🇹
 - [x] Netherlands 🇳🇱
 - [x] Russia
+- [x] Vietnam
+- [x] Iran
 
 #### Feel free to contribute, why not one of those:
 
